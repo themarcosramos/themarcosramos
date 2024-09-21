@@ -3,30 +3,23 @@
 Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor de software com foco no backend
 
 - **Linguagens**: 
-  - <strong>PHP</strong>, com os Frameworks (Yii e Laravel) ;
+  - <strong>PHP</strong>, com os Frameworks (Yii e Laravel).
     - Libs: PHPUnit,PHPstan,Plates,Twig,Blade; 
 
-   - <strong>Go (Golang)</strong>
+   - <strong>Go (Golang)</strong>.
 
-  - Javascript com NodeJS + ExpressJS
+  - Javascript com NodeJS + ExpressJS.
 
 - **Banco de Dados:**:
-  - MySQL/MariaDB;
-  - PostGreSQL;
-  - SQL Server
-  - MongoDB;
-  - Redis 
+  - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB , Redis.
 
 - **Ferramentas**:
-  - Git(GitHub/GitLab/Bitbucket)
-  - Docker;
-  - Gnu/linux;
-  - Metodologias ageis;
+  - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/linux, Metodologias ageis.
 
 - **Outros**:
-  - Shell script,JQuery,Bootstrap,SASS 
-  - Redes de computadores 
-    - Tecnologias <strong>  [CISCO](https://www.cisco.com/) </strong>
+  - Shell script , JQuery , Bootstrap , Sasss. 
+  - Redes de computadores.
+    - Tecnologias <strong>  [CISCO](https://www.cisco.com/) </strong>.
 
 ## Hi there 👋
 
