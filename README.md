@@ -10,7 +10,7 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
 
   - Javascript com NodeJS + ExpressJS.
 
-- **Banco de Dados:**:
+- **Banco de Dados**:
   - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB , Redis.
 
 - **Ferramentas**:
