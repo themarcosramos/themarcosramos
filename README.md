@@ -15,6 +15,7 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
   - PostGreSQL;
   - SQL Server
   - MongoDB;
+  - Redis 
 
 - **Ferramentas**:
   - Git(GitHub/GitLab/Bitbucket)
@@ -40,7 +41,7 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
   - Javascript  with NodeJS + ExpressJS.
 
 - **Database**:
-  - MySQL/MariaDB, PostGreSQL ,SQL Server ,MongoDB.
+  - MySQL/MariaDB, PostGreSQL ,SQL Server ,MongoDB, Redis. 
 
 - **Tools**:
   - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
@@ -51,10 +52,6 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
     - Technologies <strong> [CISCO](https://www.cisco.com/) </strong>
 
 ##
-
-<p align="left">
-<strong>Contatos:</strong>
-</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/themarcosramos" target="_blank">
