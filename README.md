@@ -14,7 +14,7 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
   - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB.
 
 - **Ferramentas**:
-  - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/linux, Metodologias ageis.
+  - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/Linux, Metodologias ageis.
 
 - **Outros**:
   - Shell script , JQuery , Bootstrap , Sasss. 
