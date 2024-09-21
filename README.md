@@ -4,14 +4,14 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
 
 - **Linguagens**: 
   - <strong>PHP</strong>, com os Frameworks (Yii e Laravel).
-    - Libs: PHPUnit,PHPstan,Plates,Twig,Blade; 
+    - Libs: PHPUnit,PHPstan,Plates; 
 
    - <strong>Go (Golang)</strong>.
 
   - Javascript com NodeJS + ExpressJS.
 
 - **Banco de Dados**:
-  - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB , Redis.
+  - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB.
 
 - **Ferramentas**:
   - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/linux, Metodologias ageis.
@@ -27,14 +27,14 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
 
 - **Languages**: 
   - <strong>PHP</strong>,with Frameworks (Yii e Laravel).
-    - Libs: PHPUnit,PHPstan,Plates,Twig,Blade.
+    - Libs: PHPUnit,PHPstan,Plates.
 
    - <strong>Go (Golang)</strong>
 
   - Javascript  with NodeJS + ExpressJS.
 
 - **Database**:
-  - MySQL/MariaDB, PostGreSQL ,SQL Server ,MongoDB, Redis. 
+  - MySQL/MariaDB, PostGreSQL ,SQL Server ,MongoDB. 
 
 - **Tools**:
   - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
@@ -61,8 +61,5 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
   </a>
    <a href="https://www.threads.net/@themarcosramos_" target="_blank">
     <img src="https://img.shields.io/badge/-threads-%23030303?style=for-the-badge&logo=threads&logoColor=white" target="_blank">
-  </a>
-   <a href="https://discord.com/users/themarcosramos#3550" target="_blank">
-    <img src="https://img.shields.io/badge/-discord-%2365B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 </p>
