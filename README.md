@@ -52,6 +52,9 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
     - Technologies <strong> [CISCO](https://www.cisco.com/) </strong>
 
 ##
+<p align="left">
+<strong>Contatos:</strong> 
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/themarcosramos" target="_blank">
