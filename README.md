@@ -9,12 +9,13 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
    - <strong>Go (Golang) </strong>.
      - Echo framework 
   
-  - Javascript com NodeJS + ExpressJS.
+  - Javascript
+    - NodeJS + ExpressJS.
  
-  - Shell script
+  - Shell script e bash
 
 - **Banco de Dados**:
-  - MySQL/MariaDB , PostGreSQL ,SQL Server , MongoDB.
+  - MySQL/MariaDB , PostgreSQL ,SQL Server , MongoDB.
 
 - **Ferramentas**:
   - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/Linux, Metodologias ageis.
