@@ -7,13 +7,11 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
     - Libs: PHPUnit, PHPstan, Plates; 
 
    - <strong>Go (Golang) </strong>.
-     - Echo framework 
+     - Echo framework , Fiber
   
   - Javascript
     - NodeJS , ExpressJS.
  
-  - Shell script e Bash
-
 - **Banco de Dados**:
   - MySQL/MariaDB , PostgreSQL ,SQL Server , MongoDB.
 
@@ -21,7 +19,7 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
   - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/Linux, Metodologias ageis.
 
 - **Outros**:
-  - Shell script , JQuery , Bootstrap , Sasss. 
+  - Shell script , Bash, JQuery , Bootstrap , Sasss. 
   - Redes de computadores.
     - Tecnologias <strong>  [CISCO](https://www.cisco.com/) </strong>.
 
@@ -34,12 +32,11 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
     - Libs: PHPUnit, PHPstan, Plates.
 
    - <strong>Go (Golang)</strong>
+     - Echo framework , Fiber
 
    - Javascript
      - NodeJS , ExpressJS.
  
-   - Shell script e Bash
-
 - **Database**:
   - MySQL/MariaDB, PostgreSQL ,SQL Server ,MongoDB. 
 
@@ -47,7 +44,7 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
   - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
 
 - **Others**:
-  - Shell script, JQuery, Bootstrap, SASS. 
+  - Shell script, Bash, JQuery, Bootstrap, SASS. 
   - computer networks
     - Technologies <strong> [CISCO](https://www.cisco.com/) </strong>
 
