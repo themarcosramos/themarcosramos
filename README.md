@@ -63,8 +63,5 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
   <a href="https://bsky.app/profile/themarcosramos.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-bluesky-%230099B6?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank">
   </a>
-   <a href="https://www.threads.net/@themarcosramos_" target="_blank">
-    <img src="https://img.shields.io/badge/-threads-%23030303?style=for-the-badge&logo=threads&logoColor=white" target="_blank">
-  </a>
   </a>
 </p>
