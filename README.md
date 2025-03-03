@@ -31,14 +31,17 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
 
 - **Languages**: 
   - <strong>PHP</strong>,with Frameworks (Yii e Laravel).
-    - Libs: PHPUnit,PHPstan,Plates.
+    - Libs: PHPUnit, PHPstan, Plates.
 
    - <strong>Go (Golang)</strong>
 
-  - Javascript  with NodeJS + ExpressJS.
+   - Javascript
+     - NodeJS , ExpressJS.
+ 
+   - Shell script e Bash
 
 - **Database**:
-  - MySQL/MariaDB, PostGreSQL ,SQL Server ,MongoDB. 
+  - MySQL/MariaDB, PostgreSQL ,SQL Server ,MongoDB. 
 
 - **Tools**:
   - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
