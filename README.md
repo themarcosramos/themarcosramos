@@ -7,19 +7,19 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
     - Libs: PHPUnit, PHPstan, Plates; 
 
    - <strong>Go (Golang) </strong>.
-     - Echo framework , Fiber
+     - Echo framework, Fiber
   
   - Javascript
-    - NodeJS , ExpressJS.
+    - NodeJS, ExpressJS.
  
 - **Banco de Dados**:
-  - MySQL/MariaDB , PostgreSQL ,SQL Server , MongoDB.
+  - MySQL/MariaDB , PostgreSQL, SQL Server, MongoDB.
 
 - **Ferramentas**:
   - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/Linux, Metodologias ageis.
 
 - **Outros**:
-  - Shell script , Bash, JQuery , Bootstrap , Sasss. 
+  - Shell script, Bash, JQuery, Bootstrap, Sasss. 
   - Redes de computadores.
     - Tecnologias <strong>  [CISCO](https://www.cisco.com/) </strong>.
 
@@ -32,13 +32,13 @@ I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software develo
     - Libs: PHPUnit, PHPstan, Plates.
 
    - <strong>Go (Golang)</strong>
-     - Echo framework , Fiber
+     - Echo framework, Fiber
 
    - Javascript
-     - NodeJS , ExpressJS.
+     - NodeJS, ExpressJS.
  
 - **Database**:
-  - MySQL/MariaDB, PostgreSQL ,SQL Server ,MongoDB. 
+  - MySQL/MariaDB, PostgreSQL, SQL Server, MongoDB. 
 
 - **Tools**:
   - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
