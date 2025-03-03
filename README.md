@@ -4,15 +4,15 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
 
 - **Linguagens**: 
   - <strong>PHP</strong>, com os Frameworks (Yii e Laravel).
-    - Libs: PHPUnit,PHPstan,Plates; 
+    - Libs: PHPUnit, PHPstan, Plates; 
 
    - <strong>Go (Golang) </strong>.
      - Echo framework 
   
   - Javascript
-    - NodeJS + ExpressJS.
+    - NodeJS , ExpressJS.
  
-  - Shell script e bash
+  - Shell script e Bash
 
 - **Banco de Dados**:
   - MySQL/MariaDB , PostgreSQL ,SQL Server , MongoDB.
