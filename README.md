@@ -7,7 +7,7 @@ Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor
     - Libs: PHPUnit, PHPstan, Plates; 
 
    - <strong>Go (Golang) </strong>.
-     - Echo framework, Fiber
+     - Echo framework
   
   - Javascript
     - NodeJS, ExpressJS.
