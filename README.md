@@ -1,67 +1,92 @@
-# Olá👋
+# 👋 Olá, eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos)
 
-Eu sou [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Desenvolvedor de software com foco no backend
+### Backend Software Engineer
 
-- **Linguagens**: 
-  - <strong>PHP</strong>, com os Frameworks (Yii e Laravel).
-    - Libs: PHPUnit, PHPstan, Plates; 
+**Go • PHP • Node.js**
 
-   - <strong>Go (Golang) </strong>.
-     - Echo framework
-  
-  - Javascript
-    - NodeJS, ExpressJS.
- 
-- **Banco de Dados**:
-  - MySQL/MariaDB , PostgreSQL, SQL Server, MongoDB.
+Desenvolvedor Back-End com experiência desde 2017 na análise, desenvolvimento, manutenção e evolução de sistemas corporativos.
 
-- **Ferramentas**:
-  - Git(GitHub/GitLab/Bitbucket) , Docker , Gnu/Linux, Metodologias ageis.
+Atuo na construção de APIs REST, microsserviços, integrações entre sistemas e aplicações escaláveis utilizando Go, PHP e JavaScript, aplicando boas práticas de engenharia de software, arquitetura e desenvolvimento orientado à qualidade.
 
-- **Outros**:
-  - Shell script, Bash, JQuery, Bootstrap, Sasss. 
-  - Redes de computadores.
-    - Tecnologias <strong>  [CISCO](https://www.cisco.com/) </strong>.
+---
 
-## Hi there 👋
+## 🚀 Tech Stack
 
-I am [Marcos Ramos](https://www.linkedin.com/in/themarcosramos), Software developer focused on the backend
+### Backend
 
-- **Languages**: 
-  - <strong>PHP</strong>,with Frameworks (Yii e Laravel).
-    - Libs: PHPUnit, PHPstan, Plates.
+- **Go:** Gin · Echo
+- **PHP:** Laravel · Yii Framework
+- **JavaScript:** Node.js · Express.js
 
-   - <strong>Go (Golang)</strong>
-     - Echo framework, Fiber
+### Banco de Dados
 
-   - Javascript
-     - NodeJS, ExpressJS.
- 
-- **Database**:
-  - MySQL/MariaDB, PostgreSQL, SQL Server, MongoDB. 
+PostgreSQL · MySQL · MariaDB · SQL Server · MongoDB · Redis
 
-- **Tools**:
-  - Git(GitHub/GitLab/Bitbucket), Docker, Gnu/linux, agile methodologies.
+### Cloud, DevOps & Infraestrutura
 
-- **Others**:
-  - Shell script, Bash, JQuery, Bootstrap, SASS. 
-  - computer networks
-    - Technologies <strong> [CISCO](https://www.cisco.com/) </strong>
+AWS · Docker · Kubernetes · Nginx · GitHub Actions · GitHub · GitLab
 
-##
-<p align="left">
-<strong>Contatos:</strong> 
-</p>
+### Sistema Operacional & Automação
+
+Linux · Shell Script · Bash
+
+### Observabilidade
+
+Grafana · Kibana · Elasticsearch · Datadog
+
+---
+
+## 🏗️ Arquitetura & Engenharia de Software
+
+REST APIs · Microsserviços · Clean Architecture · Domain-Driven Design (DDD)
+
+SOLID · Test Driven Development (TDD) · CI/CD · Event-Driven Architecture
+
+Multi-Tenant Applications · Persistência Poliglota
+
+Design Patterns · Observabilidade
+
+---
+
+## 📚 Atualmente estudando e aprofundando conhecimentos em
+
+Sistemas Distribuídos · Event-Driven Architecture
+
+Kubernetes · Cloud Native Applications
+
+Arquitetura de Microsserviços · Engenharia de Software
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Engenharia da Computação** *(em conclusão)*
+
+- Universidade Estadual de Feira de Santana (UEFS)
+
+**Redes de Computadores**
+
+- SENAI Feira de Santana
+  - Ênfase em tecnologias Cisco
+
+---
+
+## 🌐 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/themarcosramos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-     <a href="https://twitter.com/themarcosramos_" target="_blank">
-    <img src="https://img.shields.io/badge/-twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://twitter.com/themarcosramos_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+
   <a href="https://bsky.app/profile/themarcosramos.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/-bluesky-%230099B6?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank">
-  </a>
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white">
   </a>
 </p>
+
+---
+
+> *"Software de qualidade é resultado de boas decisões arquiteturais, código sustentável e aprendizado contínuo."*
