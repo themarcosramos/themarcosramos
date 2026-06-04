@@ -4,19 +4,15 @@
 
 **Go • PHP • Node.js**
 
-Foco em arquitetura de software, construção de sistemas distribuídos e evolução de plataformas escaláveis e de alta manutenibilidade.
+Foco em arquitetura de software, sistemas distribuídos e construção de plataformas escaláveis e de alta manutenibilidade. Desenvolvedor Back-End com experiência desde 2017 na construção e evolução de sistemas corporativos, atuando em APIs de alta disponibilidade, microsserviços e arquiteturas distribuídas.
 
-Desenvolvedor Back-End com experiência desde 2017 na construção e evolução de sistemas corporativos, atuando em APIs de alta disponibilidade, microsserviços e arquiteturas distribuídas.
+Atuo no desenvolvimento de APIs REST, microsserviços e integrações entre sistemas utilizando Go, PHP e JavaScript, priorizando desempenho, escalabilidade e boas práticas de engenharia de software.
 
-Atuo na construção de APIs REST, microsserviços e integrações entre sistemas utilizando Go, PHP e JavaScript.
+Tenho experiência em Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Test Driven Development (TDD) e práticas de CI/CD aplicadas à construção de sistemas robustos e sustentáveis.
 
-Experiência em arquitetura e engenharia de software, aplicando Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Test Driven Development (TDD) e práticas de CI/CD para construção de sistemas escaláveis e sustentáveis.
+Também atuo com microsserviços, aplicações distribuídas, arquiteturas multi-tenant, persistência poliglota, observabilidade e soluções orientadas a eventos.
 
-Vivência com microsserviços, aplicações distribuídas, arquiteturas multi-tenant, persistência poliglota, observabilidade e soluções orientadas a eventos.
-
-Formação em Engenharia da Computação (UEFS) e Redes de Computadores (SENAI Feira de Santana - concluído).
-
-Atualmente estudando e aprofundando conhecimentos em Sistemas Distribuídos, Arquitetura de Microsserviços e Engenharia de Software.
+Atualmente estudando e aprofundando conhecimentos em sistemas distribuídos, arquitetura de microsserviços e engenharia de software.
 
 ## 🚀 Tecnologias
 
