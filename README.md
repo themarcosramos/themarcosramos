@@ -4,72 +4,39 @@
 
 **Go • PHP • Node.js**
 
-Desenvolvedor Back-End com experiência desde 2017 na análise, desenvolvimento, manutenção e evolução de sistemas corporativos.
+Foco em arquitetura de software, construção de sistemas distribuídos e evolução de plataformas escaláveis e de alta manutenibilidade.
 
-Atuo na construção de APIs REST, microsserviços, integrações entre sistemas e aplicações escaláveis utilizando Go, PHP e JavaScript, aplicando boas práticas de engenharia de software, arquitetura e desenvolvimento orientado à qualidade.
+Desenvolvedor Back-End com experiência desde 2017 na construção e evolução de sistemas corporativos, atuando em APIs de alta disponibilidade, microsserviços e arquiteturas distribuídas.
 
----
+Atuo na construção de APIs REST, microsserviços e integrações entre sistemas utilizando Go, PHP e JavaScript.
 
-## 🚀 Tech Stack
+Experiência em arquitetura e engenharia de software, aplicando Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Test Driven Development (TDD) e práticas de CI/CD para construção de sistemas escaláveis e sustentáveis.
 
-### Backend
+Vivência com microsserviços, aplicações distribuídas, arquiteturas multi-tenant, persistência poliglota, observabilidade e soluções orientadas a eventos.
 
-- **Go:** Gin · Echo
-- **PHP:** Laravel · Yii Framework
-- **JavaScript:** Node.js · Express.js
+Formação em Engenharia da Computação (UEFS) e Redes de Computadores (SENAI Feira de Santana - concluído).
 
-### Banco de Dados
+Atualmente estudando e aprofundando conhecimentos em Sistemas Distribuídos, Arquitetura de Microsserviços e Engenharia de Software.
 
-PostgreSQL · MySQL · MariaDB · SQL Server · MongoDB · Redis
+## 🚀 Tecnologias
 
-### Cloud, DevOps & Infraestrutura
+**Backend & APIs**  
+Go · PHP · Node.js · REST APIs · Microsserviços
 
-AWS · Docker · Kubernetes · Nginx · GitHub Actions · GitHub · GitLab
+**Arquitetura & Sistemas**  
+Clean Architecture · DDD · SOLID · Design Patterns · Event-Driven Architecture · Multi-Tenant · Persistência Poliglota
 
-### Sistema Operacional & Automação
+**Banco de Dados & Busca**  
+PostgreSQL · MySQL · MariaDB · SQL Server · MongoDB · Redis · Elasticsearch
 
-Linux · Shell Script · Bash
+**Cloud & Infraestrutura**  
+AWS · Docker · Kubernetes · Nginx · CI/CD (GitHub Actions)
 
-### Observabilidade
+**Observabilidade**  
+Grafana · Kibana · Datadog
 
-Grafana · Kibana · Elasticsearch · Datadog
-
----
-
-## 🏗️ Arquitetura & Engenharia de Software
-
-REST APIs · Microsserviços · Clean Architecture · Domain-Driven Design (DDD)
-
-SOLID · Test Driven Development (TDD) · CI/CD · Event-Driven Architecture
-
-Multi-Tenant Applications · Persistência Poliglota
-
-Design Patterns · Observabilidade
-
----
-
-## 📚 Atualmente estudando e aprofundando conhecimentos em
-
-Sistemas Distribuídos · Event-Driven Architecture
-
-Kubernetes · Cloud Native Applications
-
-Arquitetura de Microsserviços · Engenharia de Software
-
----
-
-## 🎓 Formação
-
-**Bacharelado em Engenharia da Computação** *(em conclusão)*
-
-- Universidade Estadual de Feira de Santana (UEFS)
-
-**Redes de Computadores**
-
-- SENAI Feira de Santana
-  - Ênfase em tecnologias Cisco
-
----
+**Sistema Operacional & Automação**  
+Linux · Shell Script · Bash · Automação de ambientes · Scripts para infraestrutura e deploy
 
 ## 🌐 Contato
 
